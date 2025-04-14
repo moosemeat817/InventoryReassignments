@@ -29,9 +29,6 @@ If you have ImporvedFlasks installed, these flask settings will override the aut
 
 
 
-<img src="https://github.com/moosemeat817/images/blob/main/ToolsAsMaterials.png" width="80%">
-
-
 ## Requirements
 Mod Settings and Complex Logger
 

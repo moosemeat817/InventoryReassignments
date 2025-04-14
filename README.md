@@ -1,17 +1,17 @@
 # InventoryReassignments
 This is a mod for The Long Dark by Hinterland Studio, Inc.
-
-
+  
+  
 ## Description
 Reassign various gear items to different inventory categories.
-
-
+  
+  
 ## Important Notes
 You must reload your game for changes to take effect.  
 
 If you have ImporvedFlasks installed, these flask settings will override the automatic reassignment of flasks to Food and Tools.
-
-
+  
+  
 ## Automatic Reassignments
 <ins>Assigned to Materials</ins> - ArrowHead, ArrowShaft, BrokenArrow, BrokenArrowHardened, CarBattery, Fuse, GoldNugget, Hook, Line, RevolverAmmoCasing, RifleAmmoCasing, SpearHead, WireBundle  
 

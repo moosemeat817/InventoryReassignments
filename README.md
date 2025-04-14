@@ -13,7 +13,7 @@ Reassign various gear items to different inventory categories.
 
 ## Customizable Reassginments
 <ins>Flasks</ins> - Assign to FirstAid, Food, FirstAid and Tools, Food and Tools, FirstAid, Food and Tools  
-<ins>Teas, Coffees, and their ingredients</u> - Assign to FirstAid, Food, FirstAid and Food  
+<ins>Teas, Coffees, and their ingredients</ins> - Assign to FirstAid, Food, FirstAid and Food  
 <ins>Accelerants</ins> - Assign to FireStarting, Tools and FireStarting  
 
 

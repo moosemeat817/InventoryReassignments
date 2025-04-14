@@ -6,7 +6,7 @@ Reassign various gear items to different inventory categories.
 
 ## Automatic Reassignments
 <u>Assigned to Materials</u> - ArrowHead, ArrowShaft, BrokenArrow, BrokenArrowHardened, CarBattery, Fuse, GoldNugget, Hook, Line, RevolverAmmoCasing, RifleAmmoCasing, SpearHead, WireBundle
-<u>Assigned to Food</u> - AcornShelled, AcornShelledBig, BurdockPrepared
+<u>Assigned to Food</u> - AcornShelled, AcornShelledBig, BurdockPrepared<br>
 <u>Assigned to Tools</u> - Canister, Respirator, HeatPad
 
 ## Customizable Reassginments

@@ -1,9 +1,5 @@
 # InventoryReassignments
-This is a mod for The Long Dark by Hinterland Studio, Inc.
-  
-  
-## Description
-Reassign various gear items to different inventory categories.
+Reassign various gear items to different inventory categories.  
   
   
 ## Important Notes

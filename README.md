@@ -12,11 +12,11 @@ Reassign various gear items to different inventory categories.
 <ins>Assigned to Tools</ins> - Canister, Respirator, HeatPad  
 
 ## Customizable Reassginments
-<ins>Flasks</ins> - Assign to FirstAid, Food, FirstAid and Tools, Food and Tools, FirstAid, Food and Tools  
+<ins>Flasks</ins> - Assign to FirstAid, Food, FirstAid & Tools, Food & Tools, FirstAid & Food & Tools  
 
-<ins>Teas, Coffees, and their Ingredients</ins> - Assign to FirstAid, Food, FirstAid and Food  
+<ins>Teas, Coffees, and their Ingredients</ins> - Assign to FirstAid, Food, FirstAid & Food  
 
-<ins>Accelerants</ins> - Assign to FireStarting, Tools and FireStarting
+<ins>Accelerants</ins> - Assign to FireStarting, Tools & FireStarting
 
 
 <img src="https://github.com/moosemeat817/images/blob/main/ToolsAsMaterials.png" width="80%">

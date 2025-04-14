@@ -5,7 +5,7 @@ This is a mod for The Long Dark by Hinterland Studio, Inc.
 Reassign various gear items to different inventory categories.
 
 ## Automatic Reassignments
-<u>Assigned to Materials</u> - ArrowHead, ArrowShaft, BrokenArrow, BrokenArrowHardened, CarBattery, Fuse, GoldNugget, Hook, Line, RevolverAmmoCasing, RifleAmmoCasing, SpearHead, WireBundle
+<ins>Assigned to Materials</ins> - ArrowHead, ArrowShaft, BrokenArrow, BrokenArrowHardened, CarBattery, Fuse, GoldNugget, Hook, Line, RevolverAmmoCasing, RifleAmmoCasing, SpearHead, WireBundle
 <u>Assigned to Food</u> - AcornShelled, AcornShelledBig, BurdockPrepared <br />
 <u>Assigned to Tools</u> - Canister, Respirator, HeatPad
 

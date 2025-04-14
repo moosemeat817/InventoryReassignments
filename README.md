@@ -3,6 +3,8 @@ Reassign various gear items to different inventory categories.
   
   
 ## Important Notes
+If you have already installed ToolsAsMaterials, please remove it and replace with this mod.  
+
 You must reload your game for changes to take effect.  
 
 If you have ImporvedFlasks installed, these flask settings will override the automatic reassignment of flasks to Food and Tools.

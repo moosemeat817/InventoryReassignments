@@ -26,7 +26,7 @@ Reassign various gear items to different inventory categories.
   - AcornCoffeeCup, AcornGrounds, BirchbarkTea, BurdockTea, CoffeeCup, CoffeeTin, GreenTeaCup, GreenTeaPackage, ReishiTea, RoseHipTea  
 
 - <ins>Accelerants</ins> - Assign to FireStarting, Tools & FireStarting
-  - GunpowderCan, LampFuel, LampFuelFull
+  - GunpowderCan, LampFuel, LampFuelFull (The gear item called accelerant will still always be in firestarting)
 
 
 

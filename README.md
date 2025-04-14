@@ -7,7 +7,7 @@ Reassign various gear items to different inventory categories.
 
 - You must reload your game for changes to take effect.  
 
-- If you have ImporvedFlasks installed, these flask settings will override the automatic reassignment of flasks to Food and Tools.
+- If you have ImprovedFlasks installed, these flask settings will override the automatic reassignment of flasks to Food and Tools.
   
   
 ## Automatic Reassignments

@@ -19,11 +19,14 @@ Reassign various gear items to different inventory categories.
 
 
 ## Customizable Reassignments
-- <ins>Flasks</ins> - Assign to FirstAid, Food, FirstAid & Tools, Food & Tools, FirstAid & Food & Tools  
+- <ins>Flasks</ins> - Assign to FirstAid, Food, FirstAid & Tools, Food & Tools, FirstAid & Food & Tools
+  - InsulatedFlask_A, InsulatedFlask_B, InsulatedFlask_C, InsulatedFlask_D, InsulatedFlask_E, InsulatedFlask_F, InsulatedFlask_G  
 
-- <ins>Teas, Coffees, and their Ingredients</ins> - Assign to FirstAid, Food, FirstAid & Food  
+- <ins>Teas, Coffees, and their Ingredients</ins> - Assign to FirstAid, Food, FirstAid & Food
+  - AcornCoffeeCup, AcornGrounds, BirchbarkTea, BurdockTea, CoffeeCup, CoffeeTin, GreenTeaCup, GreenTeaPackage, ReishiTea, RoseHipTea  
 
 - <ins>Accelerants</ins> - Assign to FireStarting, Tools & FireStarting
+  - GunpowderCan, LampFuel, LampFuelFull
 
 
 

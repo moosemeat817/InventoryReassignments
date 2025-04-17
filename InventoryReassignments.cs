@@ -9,7 +9,7 @@ namespace InventoryReassignments
         internal static ComplexLogger<Main> Logger = new();
         public override void OnInitializeMelon()
         {
-            Logger.Log("Improved Flasks is online.", FlaggedLoggingLevel.None);
+            Logger.Log("InventoryReassignments is online.", FlaggedLoggingLevel.None);
             Settings.OnLoad();    // ModSettings
         }
 

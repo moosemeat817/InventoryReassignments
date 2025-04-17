@@ -35,7 +35,10 @@ namespace InventoryReassignments
                     "GEAR_RevolverAmmoCasing",
                     "GEAR_RifleAmmoCasing",
                     "GEAR_SpearHead",
-                    "GEAR_WireBundle"
+                    "GEAR_WireBundle",
+
+                    "GEAR_EmptyShellCasing", // Ammo Tools Mod
+                    "GEAR_Wick" // Candle Mod
 
                 };
 
@@ -48,7 +51,8 @@ namespace InventoryReassignments
                     "GEAR_InsulatedFlask_D",
                     "GEAR_InsulatedFlask_E",
                     "GEAR_InsulatedFlask_F",
-                    "GEAR_InsulatedFlask_G"
+                    "GEAR_InsulatedFlask_G",
+                    "GEAR_ImprovisedFlask"  // Leatherworks Mod
                 };
 
 
@@ -63,7 +67,9 @@ namespace InventoryReassignments
                     "GEAR_GreenTeaCup",
                     "GEAR_GreenTeaPackage",
                     "GEAR_ReishiTea",
-                    "GEAR_RoseHipTea"
+                    "GEAR_RoseHipTea",
+                    "GEAR_PineNeedleTea",  // Pine Needle Tea Mod
+                    "GEAR_PineNeedlePrepared"  // Pine Needle Tea Mod
                 };
 
 
@@ -79,7 +85,8 @@ namespace InventoryReassignments
                 {
                     "GEAR_Canister",
                     "GEAR_Respirator",
-                    "GEAR_HeatPad"
+                    "GEAR_HeatPad",
+                    "GEAR_ImprovisedFilter"  // Dead Air Mod
                 };
 
 
@@ -87,7 +94,8 @@ namespace InventoryReassignments
                 {
                     "GEAR_GunpowderCan",
                     "GEAR_LampFuel",
-                    "GEAR_LampFuelFull"
+                    "GEAR_LampFuelFull",
+                    "GEAR_SmallGunpowderCan"  // Cannery Manufacturing Mod
                 };
 
 

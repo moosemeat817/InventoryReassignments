@@ -1,5 +1,5 @@
 # InventoryReassignments
-Reassign various gear items to different inventory categories.  
+Reassign various vanillas and modded* gear items to different inventory categories.  
   
   
 ## Important Notes
@@ -11,22 +11,22 @@ Reassign various gear items to different inventory categories.
   
   
 ## Automatic Reassignments
-- <ins>Assigned to Materials</ins> - ArrowHead, ArrowShaft, BrokenArrow, BrokenArrowHardened, CarBattery, Fuse, GoldNugget, Hook, Line, RevolverAmmoCasing, RifleAmmoCasing, SpearHead, WireBundle  
+- <ins>Assigned to Materials</ins> - ArrowHead, ArrowShaft, BrokenArrow, BrokenArrowHardened, CarBattery, Fuse, GoldNugget, Hook, Line, RevolverAmmoCasing, RifleAmmoCasing, SpearHead, WireBundle, EmptyShellCasing*, Wick*  
 
 - <ins>Assigned to Food</ins> - AcornShelled, AcornShelledBig, BurdockPrepared  
 
-- <ins>Assigned to Tools</ins> - Canister, Respirator, HeatPad  
+- <ins>Assigned to Tools</ins> - Canister, Respirator, HeatPad, ImprovisedFilter*    
 
 
 ## Customizable Reassignments
 - <ins>Flasks</ins> - Assign to FirstAid, Food, FirstAid & Tools, Food & Tools, FirstAid & Food & Tools
-  - InsulatedFlask_A, InsulatedFlask_B, InsulatedFlask_C, InsulatedFlask_D, InsulatedFlask_E, InsulatedFlask_F, InsulatedFlask_G  
+  - InsulatedFlask_A, InsulatedFlask_B, InsulatedFlask_C, InsulatedFlask_D, InsulatedFlask_E, InsulatedFlask_F, InsulatedFlask_G, ImprovisedFlask*    
 
 - <ins>Teas, Coffees, and their Ingredients</ins> - Assign to FirstAid, Food, FirstAid & Food
-  - AcornCoffeeCup, AcornGrounds, BirchbarkTea, BurdockTea, CoffeeCup, CoffeeTin, GreenTeaCup, GreenTeaPackage, ReishiTea, RoseHipTea  
+  - AcornCoffeeCup, AcornGrounds, BirchbarkTea, BurdockTea, CoffeeCup, CoffeeTin, GreenTeaCup, GreenTeaPackage, ReishiTea, RoseHipTea, PineNeedleTea*, PineNeedlePrepard*    
 
 - <ins>Accelerants</ins> - Assign to FireStarting, Tools & FireStarting
-  - GunpowderCan, LampFuel, LampFuelFull (The gear item called accelerant will still always be in firestarting)
+  - GunpowderCan, LampFuel, LampFuelFull, SmallGunpowderCan* (The gear item called accelerant will still always be in firestarting)
 
 
 
